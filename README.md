@@ -1,3 +1,3 @@
 # edu.analysis
 
-[a quick description of your intent & project goal]
+using list comprehension to filter and analyze a state data. Also analyze the state math score for 8th graders. 
